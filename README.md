@@ -1,5 +1,5 @@
 # HilbertCurve
-The Hilbert Curve coded in P5JS
+The [Hilbert Curve](https://en.wikipedia.org/wiki/Hilbert_curve) coded in P5JS
 
 It's nicely animated:
 
